@@ -60,3 +60,4 @@ print(firstGPU)
 # NOTE: If all your GPUs currently have a memory consumption larger than 1%,
 # this step will fail. It's not a bug! It is intended to do so, if it does not
 # find an available GPU.
+# this line written by vasant
